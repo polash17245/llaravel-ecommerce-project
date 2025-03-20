@@ -1,2 +1,2 @@
-# llaravel-ecommerce-project
+# laravel-ecommerce-project
 laravel-ecommerce-project
